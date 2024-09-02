@@ -7,7 +7,6 @@ Players select scoring categories to end each turn, and the game continues until
 The objective is to achieve the highest possible score.
 
 Features
-
 Dice Rolling: Roll up to five dice up to three times per turn.
 Hold/Unhold Dice: Select which dice to hold and which to roll again.
 Scorecard Management: Select scoring categories and track scores for each.
