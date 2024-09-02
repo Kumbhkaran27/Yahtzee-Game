@@ -1,7 +1,10 @@
 Yahtzee 
 
 Overview
-This project is a single-player implementation of the classic dice game Yahtzee. The game involves rolling five dice up to three times per turn to achieve various scoring combinations. Players select scoring categories to end each turn, and the game continues until all 13 categories on the scorecard are used. The objective is to achieve the highest possible score.
+This project is a single-player implementation of the classic dice game Yahtzee. 
+The game involves rolling five dice up to three times per turn to achieve various scoring combinations. 
+Players select scoring categories to end each turn, and the game continues until all 13 categories on the scorecard are used. 
+The objective is to achieve the highest possible score.
 
 Features
 
